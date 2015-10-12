@@ -1,4 +1,4 @@
-# Example Image Uploading Using React componenet and the Carrier Wave Gem
+## Example Image Uploading Using React Componenet and the Carrier Wave Gem
 
 
 * [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) to handle file uploading. It will be 
