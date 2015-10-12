@@ -1,8 +1,7 @@
 ## Example Image Uploading Using React Componenet and the Carrier Wave Gem
 
 
-* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) to handle file uploading. It will be 
-added to both the User and Adventure models
+* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) to handle file uploading.
 * [CarrierWave::Base64](https://github.com/lebedev-yury/carrierwave-base64) for handeling base64 file encoding.
 This is necessary because we are using react. React can upload files via [base64 data format](https://medium.com/@greggawatt/simple-file-uploads-in-react-js-backbone-js-and-rails-7a4ab43c7e27)
 
